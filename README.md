@@ -5,6 +5,6 @@ Insight is a minimalist GUI alternative to rqt. It is a GTK4-based tool for expl
 ## Requirements
 
 ```bash
-sudo apt install python3-cairo libgtk-4-dev libgirepository1.0-dev adwaita-icon-theme libadwaita-1-dev
+sudo apt install python3-cairo libgtk-4-dev libgirepository2.0-dev adwaita-icon-theme libadwaita-1-dev
 pip install PyGObject
 ```
